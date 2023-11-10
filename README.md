@@ -28,11 +28,4 @@ Welcome to Taste & Learn Culinary School! We are dedicated to providing a compre
 
 ## Visit our Website ##
 
-To explore our courses, workshops, and projects, visit our live site: [https://culinary-adventure.web.app] ( Taste & Learn Culinary School)
-
-## Contact Us ##
-To learn more about our culinary school, please contact us at: [almahmudsarker@baiust.edu.bd](mailto: almahmudsarker@baiust.edu.bd)
-
-## License ##
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+To explore our courses, workshops, and projects, visit our live site: ------ ( Culinary School)
