@@ -28,8 +28,5 @@ Welcome to Taste & Learn Culinary School! We are dedicated to providing a compre
 
 ## Visit our Website ##
 
-<<<<<<< HEAD
 To explore our courses, workshops, and projects, visit our live site: [https://culinary-school-773ab.web.app] ( Culinary School)
-=======
-To explore our courses, workshops, and projects, visit our live site: ------ ( Culinary School)
->>>>>>> 80eb0f654fb203690cb79aa223a0856584661333
+
