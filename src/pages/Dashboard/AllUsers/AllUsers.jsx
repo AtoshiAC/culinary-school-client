@@ -13,7 +13,7 @@ const AllUsers = () => {
     })
 
     const handleMakeAdmin = user =>{
-        fetch(`https://culinary-server-almahmudsarker.vercel.app/users/admin/${user._id}`, {
+        fetch(`https://culinary-siyf.onrender.com/users/admin/${user._id}`, {
           method: "PATCH",
         })
           .then((res) => res.json())

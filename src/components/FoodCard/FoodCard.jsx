@@ -16,7 +16,7 @@ const FoodCard = ({ item }) => {
         console.log(item);
         if(user && user.email){
             const cartItem = {menuItemId: _id, name, image, price, email: user.email}
-            fetch("https://culinary-server-almahmudsarker.vercel.app/carts", {
+            fetch("https://culinary-siyf.onrender.com/carts", {
               method: "POST",
               headers: {
                 "content-type": "application/json",

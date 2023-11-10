@@ -9,7 +9,7 @@ const useInstructors = () => {
     queryKey: ["instructors"],
     queryFn: async () => {
       const res = await fetch(
-        "https://culinary-server-almahmudsarker.vercel.app/instructors"
+        "https://culinary-siyf.onrender.com/instructors"
       );
       return res.json();
     },

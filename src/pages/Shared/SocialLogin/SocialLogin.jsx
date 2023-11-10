@@ -17,7 +17,7 @@ const SocialLogin = () => {
                 const loggedInUser = result.user;
                 console.log(loggedInUser);
                 const saveUser = { name: loggedInUser.displayName, email: loggedInUser.email }
-                fetch('https://culinary-server-almahmudsarker.vercel.app/users', {
+                fetch('https://culinary-siyf.onrender.com/users', {
                     method: 'POST',
                     headers: {
                         'content-type': 'application/json'
@@ -37,7 +37,7 @@ const SocialLogin = () => {
                 const loggedInUser = result.user;
                 console.log(loggedInUser);
                 const saveUser = { name: loggedInUser.displayName, email: loggedInUser.email }
-                fetch('https://culinary-server-almahmudsarker.vercel.app/users', {
+                fetch('https://culinary-siyf.onrender.com/users', {
                     method: 'POST',
                     headers: {
                         'content-type': 'application/json'
